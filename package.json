@@ -1,0 +1,18 @@
+{
+  "name": "connectwise-api",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "request": "2.11.4",
+    "xml2js": "0.2.0",
+    "xtend": "1.0.3",
+    "json2xml": "0.0.1"
+  },
+  "main": "./connectwise.js",
+  "devDependencies": {
+    "json2xml": "0.0.1",
+    "xtend": "~1.0.3",
+    "request": "~2.11.4",
+    "xml2js": "~0.2.0"
+  }
+}
